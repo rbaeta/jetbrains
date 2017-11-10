@@ -1,0 +1,65 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ecccc2ef-3a75-4f5c-85ba-c93932f5e585" name="[radix] radix-dev" url="http://radix01-dev.multicert.dev">
+        <fileTransfer host="radix01-dev.multicert.dev" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/radix/jboss-radix" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c11fc49b-7c9a-475d-98a3-0c6388f4c462" name="[radix] 3ws-dev" url="http://be12-dev.multicert.dev">
+        <fileTransfer host="be12-dev.multicert.dev" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/3ws2/Jboss" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6a5f8cb8-a1e3-4fcb-9a92-11e82a4ce4af" name="[igcp] sc@hb01-dev" url="http://localhost">
+        <fileTransfer host="localhost" port="51111" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="51111" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7cbdc4e0-a862-43c5-aece-81745f5f8c65" name="jboss-local" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/dev/jboss-as-7.1.0.Final" accessType="MOUNT" />
+      </webServer>
+      <webServer id="d4140255-65b9-4a3f-bc69-e80c57dad232" name="[igcp] hb@hb01-dev" url="http://localhost">
+        <fileTransfer host="localhost" port="51112" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="51112" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5740164b-7ce9-41f6-a145-9957b730f618" name="[voto] promotor02-dev" url="http://promotor02-dev">
+        <fileTransfer host="promotor02-dev" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/wevoteng" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="101b65cc-02b8-4db3-a226-6a08da93ee06" name="[voto] smv02-dev" url="http://smv02-dev">
+        <fileTransfer host="smv02-dev" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/wevoteng" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="05a1cade-6d30-461a-8818-7475126c51de" name="[tdoc] epst-ecd01-dev" url="">
+        <fileTransfer host="epst-ecd01-dev.multicert.dev" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/ecd/wildfly" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

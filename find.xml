@@ -1,0 +1,41 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <recentFileMasks>
+      <mask>*.jsp</mask>
+      <mask>*.c</mask>
+      <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*pom.xml</mask>
+      <mask>*.xml</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
+      <mask>*.po</mask>
+      <mask>*.p</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ma</mask>
+      <mask>*.mar</mask>
+      <mask>*.mark</mask>
+      <mask>*.markd</mask>
+      <mask>*.markdo</mask>
+      <mask>*.markdow</mask>
+      <mask>*.markdown</mask>
+      <mask>*.m</mask>
+      <mask>*.md</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xml</mask>
+    </recentFileMasks>
+  </component>
+</application>

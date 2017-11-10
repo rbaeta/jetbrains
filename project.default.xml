@@ -1,0 +1,468 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AndroidDexCompilerConfiguration">
+        <option name="FORCE_JUMBO" value="true" />
+      </component>
+      <component name="CompilerConfiguration">
+        <wildcardResourcePatterns>
+          <entry name="!?*.java" />
+          <entry name="!?*.form" />
+          <entry name="!?*.class" />
+          <entry name="!?*.groovy" />
+          <entry name="!?*.scala" />
+          <entry name="!?*.flex" />
+          <entry name="!?*.kt" />
+          <entry name="!?*.clj" />
+        </wildcardResourcePatterns>
+      </component>
+      <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="ISO-8859-1">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="FindInProjectRecents">
+        <findStrings>
+          <find>module</find>
+        </findStrings>
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/dev/mContract/trunk/android-based" value="4319495813694" />
+            <entry key="$USER_HOME$/dev/spring-security-saml" value="5885484295556" />
+          </map>
+        </option>
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="IssueNavigationConfiguration">
+        <option name="links">
+          <list>
+            <IssueNavigationLink>
+              <option name="issueRegexp" value="[A-Z]+\-\d+" />
+              <option name="linkRegexp" value="https://servicos.multicert.com/jira/browse/$0" />
+            </IssueNavigationLink>
+          </list>
+        </option>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="/opt/apache-maven-3.2.1" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="importAutomatically" value="true" />
+          </MavenImportingSettings>
+        </option>
+      </component>
+      <component name="MavenRunner">
+        <option name="skipTests" value="true" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Code maturity issuesJava</id>
+              </State>
+              <State>
+                <id>Code style issuesJava</id>
+              </State>
+              <State>
+                <id>Data flow issuesJava</id>
+              </State>
+              <State>
+                <id>Error handlingGroovy</id>
+              </State>
+              <State>
+                <id>Error handlingJava</id>
+              </State>
+              <State>
+                <id>Groovy</id>
+              </State>
+              <State>
+                <id>Internationalization issues</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Logging issuesJava</id>
+              </State>
+              <State>
+                <id>Pattern Validation</id>
+              </State>
+              <State>
+                <id>Potentially confusing code constructsGroovy</id>
+              </State>
+              <State>
+                <id>Properties Files</id>
+              </State>
+              <State>
+                <id>Threading issuesGroovy</id>
+              </State>
+              <State>
+                <id>XML</id>
+              </State>
+              <State>
+                <id>XPath</id>
+              </State>
+              <State>
+                <id>XSLT</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="jdk7-oracle" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="GoToFile.includeJavaFiles" value="false" />
+        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="options.lastSelected" value="reference.settings.ide.settings.file-colors" />
+        <property name="MemberChooser.sorted" value="false" />
+        <property name="MemberChooser.showClasses" value="true" />
+        <property name="GoToClass.includeLibraries" value="false" />
+        <property name="options.searchVisible" value="true" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="MemberChooser.copyJavadoc" value="false" />
+        <property name="last_opened_file_path" value="$USER_HOME$/dev/girassol" />
+        <property name="recentsLimit" value="5" />
+        <property name="restartRequiresConfirmation" value="true" />
+        <property name="project.structure.last.edited" value="SDKs" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.3794063" />
+        <property name="settings.editor.selected.configurable" value="database.main" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+          <predefined_log_file id="idea.log" enabled="true" />
+          <method>
+            <option name="Make" enabled="false" />
+          </method>
+        </configuration>
+        <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+          <module name="" />
+          <option name="TESTING_TYPE" value="0" />
+          <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+          <option name="METHOD_NAME" value="" />
+          <option name="CLASS_NAME" value="" />
+          <option name="PACKAGE_NAME" value="" />
+          <option name="EXTRA_OPTIONS" value="" />
+          <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+          <option name="PREFERRED_AVD" value="" />
+          <option name="CLEAR_LOGCAT" value="false" />
+          <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+          <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+          <option name="FORCE_STOP_RUNNING_APP" value="true" />
+          <option name="DEBUGGER_TYPE" value="Java" />
+          <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+          <option name="PREFERRED_AVD" value="" />
+          <Java />
+          <Profilers>
+            <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+            <option name="GAPID_ENABLED" value="false" />
+            <option name="GAPID_DISABLE_PCS" value="false" />
+            <option name="SUPPORT_LIB_ENABLED" value="true" />
+            <option name="INSTRUMENTATION_ENABLED" value="true" />
+          </Profilers>
+          <method />
+        </configuration>
+        <configuration default="true" type="AntRunConfiguration" factoryName="Ant Target">
+          <method>
+            <option name="Make" enabled="false" />
+          </method>
+        </configuration>
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <module />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="file://$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <method>
+            <option name="Make" enabled="false" />
+          </method>
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+          <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" value="" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method>
+            <option name="Make" enabled="false" />
+          </method>
+        </configuration>
+        <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+          <ExternalSystemSettings>
+            <option name="executionName" />
+            <option name="externalProjectPath" />
+            <option name="externalSystemIdString" value="GRADLE" />
+            <option name="scriptParameters" />
+            <option name="taskDescriptions">
+              <list />
+            </option>
+            <option name="taskNames">
+              <list />
+            </option>
+            <option name="vmOptions" />
+          </ExternalSystemSettings>
+          <method />
+        </configuration>
+        <configuration default="true" type="GriffonRunConfigurationType" factoryName="Griffon">
+          <module name="" />
+          <setting name="vmparams" value="" />
+          <setting name="cmdLine" value="run-app" />
+          <setting name="depsClasspath" value="true" />
+          <setting name="passParentEnv" value="true" />
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <method />
+        </configuration>
+        <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+          <module name="" />
+          <setting name="path" value="" />
+          <setting name="vmparams" value="" />
+          <setting name="params" value="" />
+          <setting name="workDir" value="" />
+          <setting name="debug" value="false" />
+          <method>
+            <option name="Make" enabled="false" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" value="" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" value="" />
+          <option name="METHOD_NAME" value="" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" value="" />
+          <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="moduleWithDependencies" />
+          </option>
+          <envs />
+          <patterns />
+          <method>
+            <option name="Make" enabled="false" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JarApplication" factoryName="JAR Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+          <MavenSettings>
+            <option name="myGeneralSettings" />
+            <option name="myRunnerSettings" />
+            <option name="myRunnerParameters">
+              <MavenRunnerParameters>
+                <option name="profiles">
+                  <set />
+                </option>
+                <option name="goals">
+                  <list />
+                </option>
+                <option name="profilesMap">
+                  <map />
+                </option>
+                <option name="resolveToWorkspace" value="false" />
+                <option name="workingDirPath" value="" />
+              </MavenRunnerParameters>
+            </option>
+          </MavenSettings>
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" value="" />
+          <option name="SUITE_NAME" value="" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" value="" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" value="" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" value="" />
+          <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+          <option name="OUTPUT_DIRECTORY" value="" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="moduleWithDependencies" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" value="" />
+          <envs />
+          <properties />
+          <listeners />
+          <method>
+            <option name="Make" enabled="false" />
+          </method>
+        </configuration>
+        <configuration default="true" type="XSLT" factoryName="XSLT">
+          <option name="myOutputFile" value="" />
+          <option name="myOpenOutputFile" value="false" />
+          <option name="myOpenInBrowser" value="false" />
+          <option name="mySmartErrorHandling" value="true" />
+          <option name="myRunnerPort" value="34873" />
+          <option name="myVmArguments" value="" />
+          <option name="myWorkingDirectory" value="" />
+          <option name="myModule" />
+          <option name="myJdk" />
+          <parameters />
+          <OutputType value="CONSOLE" save-to-file="false" />
+          <FileType name="XML" />
+          <JdkChoice value="FROM_MODULE" />
+          <method>
+            <option name="Make" enabled="false" />
+          </method>
+        </configuration>
+        <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+          <module name="" />
+          <option name="DEPLOY" value="true" />
+          <option name="ARTIFACT_NAME" value="" />
+          <option name="PM_INSTALL_OPTIONS" value="" />
+          <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+          <option name="MODE" value="default_activity" />
+          <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+          <option name="PREFERRED_AVD" value="" />
+          <option name="CLEAR_LOGCAT" value="false" />
+          <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+          <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+          <option name="FORCE_STOP_RUNNING_APP" value="true" />
+          <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+          <option name="PREFERRED_AVD" value="" />
+          <option name="DEEP_LINK" value="" />
+          <option name="ACTIVITY_CLASS" value="" />
+          <method>
+            <option name="Make" enabled="false" />
+          </method>
+        </configuration>
+        <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+          <Host>localhost</Host>
+          <Port>5050</Port>
+        </configuration>
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+        <option name="UPDATE_LOCK_ON_DEMAND" value="true" />
+        <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="true" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+        <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="70" />
+        <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+        <option name="FORCE_NON_EMPTY_COMMENT" value="true" />
+        <MESSAGE value="branch for ITeCons" />
+        <option name="LAST_COMMIT_MESSAGE" value="branch for ITeCons" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>Maven: javafx:jfxrt:1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.3794063" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>Android API 19 Platform</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.3794063" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>jdk7-oracle</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.3794063" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.31041667" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+      <component name="uidesigner-configuration">
+        <option name="INSTRUMENT_CLASSES" value="false" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

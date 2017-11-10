@@ -1,0 +1,116 @@
+<application>
+  <component name="CommunityFileTypes" version="11">
+    <ignoreFiles list=".idea;CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;*.log;" />
+    <extensionMap>
+      <mapping ext="apt" type="APT" />
+      <removed_mapping ext="zip" approved="true" type="ARCHIVE" />
+      <mapping ext="iss" type="C# (syntax highlighting only)" />
+      <mapping pattern="cacerts" type="Native" />
+      <mapping ext="pem" type="Native" />
+      <mapping ext="p12" type="Native" />
+      <mapping ext="tgz" type="Native" />
+      <mapping ext="cab" type="Native" />
+      <mapping ext="crt" type="Native" />
+      <mapping ext="dia" type="Native" />
+      <mapping ext="crl" type="Native" />
+      <mapping ext="dsa" type="Native" />
+      <mapping ext="zip" type="Native" />
+      <mapping ext="ks" type="Native" />
+      <mapping ext="cer" type="Native" />
+      <mapping ext="der" type="Native" />
+      <mapping ext="jks" type="Native" />
+      <mapping ext="rsa" type="Native" />
+      <mapping pattern="PkgInfo" type="PLAIN_TEXT" />
+      <mapping pattern=".hgrc" type="PLAIN_TEXT" />
+      <mapping pattern="cryptoPerms" type="PLAIN_TEXT" />
+      <mapping ext="mkf" type="PLAIN_TEXT" />
+      <mapping ext="certificatedevice" type="PLAIN_TEXT" />
+      <mapping ext="prefs" type="Properties" />
+      <mapping ext="conf" type="Properties" />
+      <mapping ext="schemas" type="Properties" />
+      <mapping ext="tml" type="XHTML" />
+      <mapping ext="jsp" type="XHTML" />
+      <mapping pattern=".project" type="XML" />
+      <mapping pattern=".classpath" type="XML" />
+      <mapping ext="tagx" type="XML" />
+      <mapping ext="page" type="XML" />
+      <mapping ext="erm" type="XML" />
+      <mapping ext="aip" type="XML" />
+      <mapping ext="xml_eng" type="XML" />
+      <mapping ext="xades" type="XML" />
+      <mapping ext="jspx" type="XML" />
+      <mapping ext="vm" type="XML" />
+      <mapping ext="plist" type="XML" />
+      <mapping ext="rptdesign" type="XML" />
+      <mapping ext="application" type="XML" />
+      <mapping ext="xml_prt" type="XML" />
+    </extensionMap>
+    <setting name="fileTypeChangedCounter" value="119" />
+  </component>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping ext="gz" type="ARCHIVE" />
+      <mapping ext="asic" type="ARCHIVE" />
+      <mapping ext="tgz" type="ARCHIVE" />
+      <mapping ext="tif" type="Images" />
+      <mapping ext="mdown" type="Markdown" />
+      <mapping ext="markdown" type="Markdown" />
+      <mapping pattern="remove" type="Native" />
+      <mapping ext="bks" type="Native" />
+      <mapping ext="crt" type="Native" />
+      <mapping ext="cer" type="Native" />
+      <mapping ext="der" type="Native" />
+      <mapping ext="dsa" type="Native" />
+      <mapping ext="deb" type="Native" />
+      <mapping ext="p12" type="Native" />
+      <mapping ext="ttf" type="Native" />
+      <mapping ext="asics" type="Native" />
+      <mapping ext="pfx" type="Native" />
+      <mapping ext="jks" type="Native" />
+      <mapping ext="vpp" type="Native" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="rc" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="nsi" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <removed_mapping ext="sh" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="Properties" />
+      <mapping ext="xades" type="XML" />
+      <mapping ext="plist" type="XML" />
+      <mapping ext="vcproj" type="XML" />
+      <mapping ext="suml" type="XML" />
+      <removed_mapping ext="ant" type="XML" />
+      <mapping pattern="bash" type="textmate" />
+      <mapping pattern="bash_logout" type="textmate" />
+      <mapping pattern="bash_login" type="textmate" />
+      <mapping pattern=".textmate_init" type="textmate" />
+      <mapping pattern="sh" type="textmate" />
+      <mapping pattern="zsh" type="textmate" />
+      <mapping pattern="bashrc" type="textmate" />
+      <mapping pattern="profile" type="textmate" />
+      <mapping pattern="bash_profile" type="textmate" />
+      <mapping ext=".textmate_init" type="textmate" />
+      <mapping ext="bash_profile" type="textmate" />
+      <mapping ext="sh" type="textmate" />
+      <mapping ext="bash_logout" type="textmate" />
+      <mapping ext="bash" type="textmate" />
+      <mapping ext="bashrc" type="textmate" />
+      <mapping ext="profile" type="textmate" />
+      <mapping ext="bash_login" type="textmate" />
+      <mapping ext="zsh" type="textmate" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="Dockerfile" type="Docker file" />
+    </extensionMap>
+  </component>
+</application>

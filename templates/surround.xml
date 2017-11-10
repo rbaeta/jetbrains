@@ -1,0 +1,8 @@
+<templateSet group="surround">
+  <template name="DP" value="AccessController.doPrivileged(new PrivilegedExceptionAction&lt;$TYPE$&gt;() {&#10;    @Override&#10;    public $TYPE$ run() throws Exception {&#10;        return $SELECTION$;&#10;    }    &#10;})" description="AccessController.doPrivileged(...)" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="subtypes(TYPE)" defaultValue="java.lang.Object" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,200 @@
+<keymap version="1" name="baeta" parent="Default for KDE">
+  <action id="ActivateQueryResultToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="Add Call to Sequence Diagram" />
+  <action id="Add Return to Sequence Diagram" />
+  <action id="ChangesView.Refresh">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="shift alt i" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
+  <action id="CodeInspection.OnEditor" />
+  <action id="CommittedChanges.Refresh">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
+  <action id="Compare.LastVersion">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="CompareClipboardWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl alt d" />
+  </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl 9" />
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
+  <action id="ConvertIndentsToSpaces">
+    <keyboard-shortcut first-keystroke="shift alt period" />
+  </action>
+  <action id="ConvertIndentsToTabs">
+    <keyboard-shortcut first-keystroke="shift alt comma" />
+  </action>
+  <action id="Diff.ApplyLeftSide">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="Diff.ApplyRightSide">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="Diff.IgnoreLeftSide">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
+  <action id="Diff.IgnoreRightSide">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="EditCommitMessage">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorToggleShowWhitespaces">
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="Exit">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift alt 7" />
+    <keyboard-shortcut first-keystroke="alt f7" />
+  </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
+  <action id="GotoBookmark0">
+    <keyboard-shortcut first-keystroke="shift alt f11" second-keystroke="0" />
+  </action>
+  <action id="GotoBookmark1">
+    <keyboard-shortcut first-keystroke="shift alt f11" second-keystroke="1" />
+  </action>
+  <action id="GotoBookmark2">
+    <keyboard-shortcut first-keystroke="shift alt f11" second-keystroke="2" />
+  </action>
+  <action id="GotoBookmark3">
+    <keyboard-shortcut first-keystroke="shift alt f11" second-keystroke="3" />
+  </action>
+  <action id="GotoBookmark4">
+    <keyboard-shortcut first-keystroke="shift alt f11" second-keystroke="4" />
+  </action>
+  <action id="GotoBookmark5">
+    <keyboard-shortcut first-keystroke="shift alt f11" second-keystroke="5" />
+  </action>
+  <action id="GotoBookmark6">
+    <keyboard-shortcut first-keystroke="shift alt f11" second-keystroke="6" />
+  </action>
+  <action id="GotoBookmark7">
+    <keyboard-shortcut first-keystroke="shift alt f11" second-keystroke="7" />
+  </action>
+  <action id="GotoBookmark8">
+    <keyboard-shortcut first-keystroke="shift alt f11" second-keystroke="8" />
+  </action>
+  <action id="GotoBookmark9">
+    <keyboard-shortcut first-keystroke="shift alt f11" second-keystroke="9" />
+  </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
+  <action id="HighlightUsagesInFile">
+    <keyboard-shortcut first-keystroke="shift ctrl 7" />
+    <keyboard-shortcut first-keystroke="shift ctrl f7" />
+  </action>
+  <action id="IncomingChanges.Refresh">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
+  <action id="IntegrateFiles">
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
+  </action>
+  <action id="MethodDuplicates">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="MoveLineDown" />
+  <action id="MoveLineUp" />
+  <action id="PopupHector" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="shift alt 1" />
+    <keyboard-shortcut first-keystroke="alt f1" />
+  </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
+  <action id="Subversion.Add">
+    <keyboard-shortcut first-keystroke="shift alt a" />
+  </action>
+  <action id="Subversion.Resolve">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="SynchronizeCurrentFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt y" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+  </action>
+  <action id="Tool_External Tools_Open archive">
+    <keyboard-shortcut first-keystroke="shift alt a" />
+  </action>
+  <action id="UpdateCopyright">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="UpdateFiles">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+  </action>
+  <action id="Vcs.IntegrateProject">
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift alt g" />
+  </action>
+  <action id="Vcs.RefreshStatuses">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+  </action>
+  <action id="VcsHistory.ShowAllAffected" />
+  <action id="simpleUML.LoadDiagram" />
+</keymap>

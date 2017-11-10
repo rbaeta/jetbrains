@@ -1,0 +1,27 @@
+<application>
+  <component name="libraryTable">
+    <library name="jquery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.12.4_jquery.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES />
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Maven: javafx:jfxrt:1.7">
+      <CLASSES>
+        <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/jfxrt.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="http://docs.oracle.com/javafx/2/api/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+  </component>
+</application>
