@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.css</mask>
       <mask>*.cs</mask>
@@ -28,14 +29,14 @@
       <mask>*.markdown</mask>
       <mask>*.m</mask>
       <mask>*.md</mask>
-      <mask>po</mask>
-      <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>po*.xml</mask>
       <mask>pom*.xml</mask>
-      <mask>pom.xml</mask>
       <mask>*.xml</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
