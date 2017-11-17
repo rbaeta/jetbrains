@@ -10,6 +10,9 @@
     <keyboard-shortcut first-keystroke="shift alt i" />
   </action>
   <action id="CodeInspection.OnEditor" />
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="ConvertIndentsToSpaces">
@@ -44,6 +47,9 @@
   </action>
   <action id="UpdateFiles">
     <keyboard-shortcut first-keystroke="shift alt u" />
+  </action>
+  <action id="Vcs.ShowHistoryForBlock">
+    <keyboard-shortcut first-keystroke="shift alt h" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift alt h" />
