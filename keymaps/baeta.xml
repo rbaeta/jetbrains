@@ -1,4 +1,10 @@
 <keymap version="1" name="baeta" parent="Default for GNOME">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
   <action id="ConvertIndentsToSpaces">
     <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
@@ -8,13 +14,23 @@
   <action id="EditorToggleShowWhitespaces">
     <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="LocalHistory">
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
+  </action>
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="shift alt p" />
   </action>
   <action id="PopupHector" />
+  <action id="PreviousOccurence">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="shift alt 9" />
     <keyboard-shortcut first-keystroke="f10" />
