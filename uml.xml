@@ -1,0 +1,10 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="categories">
+      <map>
+        <entry id="MODULES" categories="Libraries" />
+        <entry id="SpringLocalModels" categories="Show library models" />
+      </map>
+    </option>
+  </component>
+</application>
