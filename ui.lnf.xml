@@ -2,16 +2,16 @@
   <component name="DependencyUISettings">
     <option name="UI_FLATTEN_PACKAGES" value="false" />
     <option name="UI_SHOW_FILES" value="false" />
+    <option name="UI_SHOW_MODULES" value="false" />
+    <option name="UI_SHOW_MODULE_GROUPS" value="false" />
     <option name="UI_FILTER_OUT_OF_CYCLE_PACKAGES" value="false" />
     <option name="UI_GROUP_BY_SCOPE_TYPE" value="false" />
     <option name="UI_COMPACT_EMPTY_MIDDLE_PACKAGES" value="false" />
-    <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="70" />
-    <option name="FONT_FACE" value="Ubuntu" />
     <option name="FONT_SCALE" value="1.0" />
     <option name="FONT_SIZE" value="11" />
     <option name="HIDE_NAVIGATION_ON_FOCUS_LOSS" value="false" />
