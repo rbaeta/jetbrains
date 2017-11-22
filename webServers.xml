@@ -52,8 +52,16 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="05a1cade-6d30-461a-8818-7475126c51de" name="[tdoc] epst-ecd01-dev" url="">
+      <webServer id="05a1cade-6d30-461a-8818-7475126c51de" name="[tdoc] epst-ecd01-dev/wildfly" url="">
         <fileTransfer host="epst-ecd01-dev.multicert.dev" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/ecd/wildfly" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7df1d16c-3d0c-4949-a571-8c4f1ea1679e" name="[tdoc] epst-ecd01-dev" url="">
+        <fileTransfer host="epst-ecd01-dev.multicert.dev" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/ecd" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
