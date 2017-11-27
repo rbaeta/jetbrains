@@ -51,7 +51,7 @@
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="gz" type="ARCHIVE" />
-      <mapping ext="asic" type="ARCHIVE" />
+      <mapping ext="asics" type="ARCHIVE" />
       <mapping ext="tgz" type="ARCHIVE" />
       <mapping ext="tif" type="Images" />
       <mapping ext="mdown" type="Markdown" />
@@ -65,7 +65,6 @@
       <mapping ext="deb" type="Native" />
       <mapping ext="p12" type="Native" />
       <mapping ext="ttf" type="Native" />
-      <mapping ext="asics" type="Native" />
       <mapping ext="pfx" type="Native" />
       <mapping ext="jks" type="Native" />
       <mapping ext="vpp" type="Native" />
