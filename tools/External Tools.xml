@@ -13,10 +13,17 @@
       <option name="WORKING_DIRECTORY" value="/opt/portecle-1.7" />
     </exec>
   </tool>
-  <tool name="Open keystore with keytool" description="Open keystore with keytool" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+  <tool name="Open keystore JKS with keytool" description="Open keystore JKS with keytool" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="/bin/sh" />
       <option name="PARAMETERS" value="-c &quot;keytool -list -v -keystore $FilePath$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+  <tool name="Open keystore BKS with keytool" description="Open keystore BKS with keytool" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="/bin/sh" />
+      <option name="PARAMETERS" value="-c &quot;keytool -list -v -keystore $FilePath$ -storetype BKS -providerclass org.bouncycastle.jce.provider.BouncyCastleProvider -providerpath /home/rbaeta/.m2/repository/org/bouncycastle/bcprov-jdk15on/1.52/bcprov-jdk15on-1.52.jar&quot;" />
       <option name="WORKING_DIRECTORY" value="$FileDir$" />
     </exec>
   </tool>
