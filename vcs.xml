@@ -134,6 +134,10 @@
           <option name="url" value="rbaeta@git.multicert.inet:/opt/git/projects/mPKI" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git.multicert.inet/opt/git/projects/mSignRebuild" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/" />
