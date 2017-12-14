@@ -76,6 +76,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="d360e3cc-f8a5-43a6-96ce-414a20a34350" name="[samvv] samvv@samvv02-dev" url="http://samvv02-dev.multicert.dev">
+        <fileTransfer host="samvv02-dev.multicert.dev" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/samvv/jboss" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
