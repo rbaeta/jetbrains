@@ -28,6 +28,12 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
   <action id="LocalHistory">
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
   </action>
@@ -45,8 +51,17 @@
     <keyboard-shortcut first-keystroke="shift alt 9" />
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="shift alt f11" />
+  </action>
   <action id="SynchronizeCurrentFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt y" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
   </action>
   <action id="Tool_External Tools_Open archive">
     <keyboard-shortcut first-keystroke="shift alt a" />
