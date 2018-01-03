@@ -26,14 +26,14 @@
       <mask>*pom</mask>
       <mask>*.pom</mask>
       <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.x</mask>
-      <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
