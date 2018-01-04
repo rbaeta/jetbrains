@@ -92,6 +92,38 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="dee7819a-b593-4c43-aeca-abdb3f50da13" name="[mbank] mbank02-dev" url="http://mbank02-dev.multicert.dev">
+        <fileTransfer host="mbank02-dev.multicert.dev" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/mbank" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2ee6c48d-29aa-4d27-ad5a-dd30d47ff57f" name="[mbank] mbank03-dev" url="http://mbank03-dev.multicert.dev">
+        <fileTransfer host="mbank03-dev.multicert.dev" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/mbank" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6af68059-7e90-4d41-a130-09e0bf6f936d" name="[mbank] mbroker02-dev" url="http://mbank02-dev.multicert.dev">
+        <fileTransfer host="mbank02-dev.multicert.dev" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/mbroker" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="817908a3-1543-45b2-b73f-3d74eb76bbe7" name="[mbank] mbroker03-dev" url="http://mbank03-dev.multicert.dev">
+        <fileTransfer host="mbank03-dev.multicert.dev" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/mbroker" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
