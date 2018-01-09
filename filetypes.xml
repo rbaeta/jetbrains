@@ -50,8 +50,10 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping ext="wfz" type="ARCHIVE" />
       <mapping ext="asics" type="ARCHIVE" />
       <mapping ext="gz" type="ARCHIVE" />
+      <mapping ext="vxp" type="ARCHIVE" />
       <mapping ext="tgz" type="ARCHIVE" />
       <mapping ext="tif" type="Images" />
       <mapping ext="mdown" type="Markdown" />
@@ -94,11 +96,11 @@
       <mapping pattern="bash_profile" type="textmate" />
       <mapping ext="zsh" type="textmate" />
       <mapping ext="bash" type="textmate" />
-      <mapping ext="profile" type="textmate" />
       <mapping ext="sh" type="textmate" />
+      <mapping ext="bashrc" type="textmate" />
       <mapping ext="bash_login" type="textmate" />
       <mapping ext="bash_logout" type="textmate" />
-      <mapping ext="bashrc" type="textmate" />
+      <mapping ext="profile" type="textmate" />
       <mapping ext="bash_profile" type="textmate" />
       <mapping ext=".textmate_init" type="textmate" />
       <mapping ext="fnc" type="DBN-PSQL" />
