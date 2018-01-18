@@ -3,17 +3,8 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.txt" />
     <recentFileMasks>
-      <mask>*.groov</mask>
-      <mask>*.groovy</mask>
-      <mask>*.po</mask>
-      <mask>*.p</mask>
-      <mask>*.ma</mask>
-      <mask>*.mar</mask>
-      <mask>*.mark</mask>
-      <mask>*.markd</mask>
-      <mask>*.markdo</mask>
-      <mask>*.markdow</mask>
       <mask>*.markdown</mask>
       <mask>*.m</mask>
       <mask>*.md</mask>
@@ -26,14 +17,24 @@
       <mask>*pom</mask>
       <mask>*.pom</mask>
       <mask>po</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
+      <mask>*.tx</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*v</mask>
+      <mask>*vp</mask>
+      <mask>*vpn</mask>
+      <mask>*vpn*</mask>
+      <mask>*</mask>
+      <mask>*:</mask>
+      <mask>*:txt</mask>
+      <mask>*txt</mask>
+      <mask>*.txt</mask>
     </recentFileMasks>
   </component>
 </application>
