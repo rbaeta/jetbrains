@@ -14,12 +14,14 @@
     <resource url="http://www.springframework.org/schema/mvc" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/f7d22907_spring-mvc.xsd" />
     <resource url="http://www.springframework.org/schema/tool/spring-tool-3.0.xsd" location="$USER_HOME$/.IdeaIC2016.1/system/extResources/5f59e9a1_spring-tool-3.0.xsd" />
     <resource url="http://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/946a6b65_spring-tool-4.3.xsd" />
-    <resource url="http://www.springframework.org/schema/tx/spring-tx.xsd" location="$USER_HOME$/.IdeaIC2016.1/system/extResources/bc20ae51_spring-tx.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/bc20ae51_spring-tx.xsd" />
     <resource url="http://www.w3.org/1999/XSL/Format" location="$USER_HOME$/.IdeaIC2016.1/system/extResources/741852a8_Format.xml" />
     <resource url="http://www.w3.org/2000/09/xmldsig#" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/3ddbaac8_xmldsig#.xml" />
+    <resource url="http://www.w3.org/2001/04/xmlenc#" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/b0bdc7b1_xmlenc#.xml" />
     <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/9b192256_xml.xsd" />
     <resource url="http://www.w3.org/2003/05/soap-envelope" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/d6567222_soap-envelope.xml" />
     <resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/2889bd79_svg11.dtd" />
+    <resource url="http://www.w3.org/TR/2002/REC-xmldsig-core-20020212/xmldsig-core-schema.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/e87deeab_xmldsig-core-schema.xsd" />
     <resource url="http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" location="$USER_HOME$/.IdeaIC15/system/extResources/27c071c8_web-app_3_1.xsd" />
     <resource url="urn:jboss:cli:1.0" location="$USER_HOME$/dev/jboss-as-7.1.0.Final/docs/schema/jboss-as-cli_1_0.xsd" />
     <resource url="urn:jboss:domain:1.0" location="$USER_HOME$/dev/jboss-as-7.1.0.Final/docs/schema/jboss-as-config_1_0.xsd" />
