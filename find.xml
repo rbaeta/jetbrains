@@ -3,8 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*pom</mask>
       <mask>*.pom</mask>
       <mask>*.j</mask>
       <mask>pom.x</mask>
@@ -12,14 +12,12 @@
       <mask>*vp</mask>
       <mask>*vpn</mask>
       <mask>*vpn*</mask>
-      <mask>*</mask>
       <mask>*:</mask>
       <mask>*:txt</mask>
       <mask>*txt</mask>
       <mask>*.txt</mask>
       <mask>*.tx</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>pom*.java</mask>
       <mask>pom.*.java</mask>
@@ -34,6 +32,9 @@
       <mask>po*.xml</mask>
       <mask>pom*.xml</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
