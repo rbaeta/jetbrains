@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[oca808] - .../src/main/java/com/multicert/training/chapter06/Interviewer.java'" />
     <option name="defaultScopeName" value="File '[oca808] - .../src/main/java/com/multicert/training/chapter06/Interviewer.java'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '[oca808] - .../src/main/java/com/multicert/training/chapter06/Interviewer.java'" />
     <recentFileMasks>
       <mask>*.pom</mask>
