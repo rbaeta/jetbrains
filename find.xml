@@ -5,15 +5,8 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*vpn</mask>
-      <mask>*vpn*</mask>
-      <mask>*:</mask>
-      <mask>*:txt</mask>
-      <mask>*txt</mask>
-      <mask>*.txt</mask>
-      <mask>*.tx</mask>
-      <mask>*.t</mask>
       <mask>pom*.java</mask>
       <mask>pom.*.java</mask>
       <mask>*pom.xml</mask>
@@ -31,11 +24,19 @@
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*-</mask>
+      <mask>*</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properti</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
