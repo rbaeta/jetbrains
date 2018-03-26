@@ -5,9 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.xm</mask>
-      <mask>*.jav</mask>
-      <mask>*-</mask>
       <mask>*.properti</mask>
       <mask>*.jaba</mask>
       <mask>*.jab</mask>
@@ -34,6 +31,9 @@
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
+      <mask>*.xmlpom</mask>
+      <mask>*.xmlpo</mask>
+      <mask>*.xmlp</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
