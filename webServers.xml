@@ -1,6 +1,9 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="9d2750cf-1fd7-4f16-9415-6e48e54aa346" name="[cip] virtualbox" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="/win/share/cip" accessType="MOUNT" />
+      </webServer>
       <webServer id="ecccc2ef-3a75-4f5c-85ba-c93932f5e585" name="[radix] radix-dev" url="http://radix01-dev.multicert.dev">
         <fileTransfer host="radix01-dev.multicert.dev" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/radix/jboss-radix" accessType="SFTP" keyPair="true">
           <advancedOptions>
