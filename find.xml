@@ -3,12 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properti</mask>
       <mask>*.jaba</mask>
       <mask>*.jab</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.x</mask>
@@ -27,13 +26,15 @@
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xmlpom</mask>
       <mask>*.xmlpo</mask>
       <mask>*.xmlp</mask>
       <mask>*.xml</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
