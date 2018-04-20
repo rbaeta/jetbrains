@@ -5,9 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>pom.</mask>
-      <mask>pom.x</mask>
       <mask>pom.xmm</mask>
       <mask>pom.xmml</mask>
       <mask>*.p</mask>
@@ -35,6 +34,8 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
+      <mask>*.js.map</mask>
+      <mask>*.js.</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
