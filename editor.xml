@@ -14,5 +14,9 @@
   <component name="TodoConfiguration">
     <pattern pattern="//\btodo\b.*" />
     <pattern pattern="//\bfixme\b.*" />
+    <pattern case-sensitive="true" pattern="//\brb\b.*" />
+    <filter name="my comments">
+      <pattern index="2" />
+    </filter>
   </component>
 </application>
