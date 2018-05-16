@@ -3,10 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>pom.xmm</mask>
       <mask>pom.xmml</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
@@ -29,13 +31,14 @@
       <mask>*.js.map</mask>
       <mask>*.js.</mask>
       <mask>po</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>pom</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
