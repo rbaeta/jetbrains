@@ -50,6 +50,9 @@
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="ctrl alt quote" />
+  </action>
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="shift alt 9" />
     <keyboard-shortcut first-keystroke="f10" />
