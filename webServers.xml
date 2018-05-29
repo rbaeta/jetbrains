@@ -127,6 +127,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="b087d0b9-881f-4dd1-b46c-5d945c4680d0" name="portoshared" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="/media/portoshared/rbaeta" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </application>
