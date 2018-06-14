@@ -1,7 +1,7 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="163">
     <driver id="h2.unified" name="H2" dialect="H2">
-      <artifact name="H2" use="true" version="1.4.192" />
+      <artifact name="H2" use="true" version="1.4.196" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
     </driver>
