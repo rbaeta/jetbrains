@@ -3,7 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.jsp" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
@@ -24,17 +24,17 @@
       <mask>*.ja</mask>
       <mask>*.js.map</mask>
       <mask>*.js.</mask>
-      <mask>pom</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>*.j</mask>
-      <mask>po</mask>
-      <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
       <mask>*.jsp</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
