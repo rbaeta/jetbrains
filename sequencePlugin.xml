@@ -1,0 +1,16 @@
+<application>
+  <component name="sequencePlugin">
+    <option name="excludeList">
+      <list>
+        <excludeEntry>
+          <option name="enabled" value="true" />
+          <option name="excludeName" value="java.*" />
+        </excludeEntry>
+        <excludeEntry>
+          <option name="enabled" value="true" />
+          <option name="excludeName" value="javax.*" />
+        </excludeEntry>
+      </list>
+    </option>
+  </component>
+</application>
