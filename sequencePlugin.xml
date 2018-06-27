@@ -12,5 +12,6 @@
         </excludeEntry>
       </list>
     </option>
+    <option name="FONT_NAME" value="Ubuntu" />
   </component>
 </application>
