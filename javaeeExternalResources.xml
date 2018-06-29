@@ -23,6 +23,7 @@
     <resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/2889bd79_svg11.dtd" />
     <resource url="http://www.w3.org/TR/2002/REC-xmldsig-core-20020212/xmldsig-core-schema.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/e87deeab_xmldsig-core-schema.xsd" />
     <resource url="http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" location="$USER_HOME$/.IdeaIC15/system/extResources/27c071c8_web-app_3_1.xsd" />
+    <resource url="https://jeremylong.github.io/DependencyCheck/dependency-suppression.1.1.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/b5d3be6b_dependency-suppression.1.1.xsd" />
     <resource url="urn:jboss:cli:1.0" location="$USER_HOME$/dev/jboss-as-7.1.0.Final/docs/schema/jboss-as-cli_1_0.xsd" />
     <resource url="urn:jboss:domain:1.0" location="$USER_HOME$/dev/jboss-as-7.1.0.Final/docs/schema/jboss-as-config_1_0.xsd" />
     <resource url="urn:jboss:domain:1.1" location="$USER_HOME$/dev/jboss-as-7.1.0.Final/docs/schema/jboss-as-config_1_1.xsd" />
