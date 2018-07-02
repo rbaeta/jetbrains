@@ -5,22 +5,12 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.prope</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.propertie</mask>
-      <mask>*.properties</mask>
-      <mask>*.x</mask>
-      <mask>*.xmlpom</mask>
       <mask>*.xmlpo</mask>
       <mask>*.xmlp</mask>
       <mask>*.xml</mask>
       <mask>*-java</mask>
-      <mask>*.ja</mask>
       <mask>*.js.map</mask>
       <mask>*.js.</mask>
       <mask>*.sql</mask>
@@ -32,10 +22,21 @@
       <mask>pom</mask>
       <mask>pom.xml</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pt</mask>
+      <mask>*.pto</mask>
+      <mask>*.ptop</mask>
+      <mask>*.ptope</mask>
+      <mask>*.ptoper</mask>
+      <mask>*.ptopert</mask>
+      <mask>*.ptopertie</mask>
+      <mask>*.ptoperties</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
