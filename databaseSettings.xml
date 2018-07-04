@@ -1,6 +1,7 @@
 <application>
   <component name="DatabaseSettings" version="1">
     <option name="page-size" value="100" />
+    <option name="reuse-result-tab" value="false" />
     <option name="execute-inside-option" value="2" />
     <text-mode in-scripts="true" in-literals="true">
       <parameter-patterns>
