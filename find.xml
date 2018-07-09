@@ -12,13 +12,10 @@
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.js</mask>
-      <mask>*.jsp</mask>
       <mask>po</mask>
       <mask>pom</mask>
       <mask>pom.xml</mask>
       <mask>*</mask>
-      <mask>*.ja</mask>
       <mask>*.p</mask>
       <mask>*.pt</mask>
       <mask>*.pto</mask>
@@ -33,9 +30,12 @@
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.jsp</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
