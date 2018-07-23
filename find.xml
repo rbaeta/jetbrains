@@ -9,11 +9,11 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*-java</mask>
       <mask>*.js.map</mask>
       <mask>*.js.</mask>
-      <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>po</mask>
@@ -40,6 +40,7 @@
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
