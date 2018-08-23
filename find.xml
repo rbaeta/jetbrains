@@ -21,23 +21,23 @@
       <mask>*.ptoperties</mask>
       <mask>*.properties</mask>
       <mask>*.xm</mask>
-      <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.pd</mask>
       <mask>*.pdf</mask>
       <mask>po</mask>
       <mask>pom</mask>
       <mask>pom.xml</mask>
+      <mask>*.xml</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
