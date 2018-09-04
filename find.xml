@@ -7,9 +7,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*.pt</mask>
       <mask>*.pto</mask>
       <mask>*.ptop</mask>
       <mask>*.ptope</mask>
@@ -30,15 +28,16 @@
       <mask>*.pdf</mask>
       <mask>po</mask>
       <mask>*.xml</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jsp</mask>
       <mask>sql</mask>
       <mask>*sql</mask>
-      <mask>*.sql</mask>
       <mask>*.pom</mask>
       <mask>pom</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
