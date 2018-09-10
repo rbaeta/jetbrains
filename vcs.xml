@@ -150,6 +150,10 @@
           <option name="url" value="rbaeta@git.multicert.inet:/opt/git/components/DataExtractorAPI" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="rbaeta@git.multicert.inet:/opt/git/projects/dataextractor" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/" />
