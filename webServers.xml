@@ -130,6 +130,9 @@
       <webServer id="b087d0b9-881f-4dd1-b46c-5d945c4680d0" name="portoshared" url="http://localhost">
         <fileTransfer port="0" mountedRoot="/media/portoshared/rbaeta" accessType="MOUNT" />
       </webServer>
+      <webServer id="0c51891a-3960-4e65-80cd-174479ddec16" name="[voto] promotor02-dev (mount)" url="http://promotor02-dev.multicert.tst:8080/mes">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/dev/WeVoteNG/temp/remote-dev/promotor02" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </application>
