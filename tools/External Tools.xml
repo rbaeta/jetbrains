@@ -2,7 +2,7 @@
   <tool name="Open archive" description="Open archive" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="/bin/sh" />
-      <option name="PARAMETERS" value="-c &quot;file-roller $FilePath$&quot;" />
+      <option name="PARAMETERS" value="-c &quot;file-roller '$FilePath$'&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
