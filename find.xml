@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.ptope</mask>
       <mask>*.ptoper</mask>
@@ -13,7 +14,6 @@
       <mask>*.ptoperties</mask>
       <mask>*.properties</mask>
       <mask>*.xm</mask>
-      <mask>*.jav</mask>
       <mask>*.x</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
@@ -26,16 +26,17 @@
       <mask>*.sql</mask>
       <mask>pom.x</mask>
       <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>po</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
       <mask>*</mask>
-      <mask>*.js</mask>
       <mask>*.jsp</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
