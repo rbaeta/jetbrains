@@ -1,0 +1,9 @@
+<application>
+  <component name="AsciidocApplicationSettings">
+    <AsciiDocPreviewSettings>
+      <HtmlPanelProviderInfo>
+        <ProviderInfo name="Swing" className="org.asciidoc.intellij.editor.jeditor.JeditorHtmlPanelProvider" />
+      </HtmlPanelProviderInfo>
+    </AsciiDocPreviewSettings>
+  </component>
+</application>
