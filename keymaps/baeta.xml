@@ -32,6 +32,9 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
