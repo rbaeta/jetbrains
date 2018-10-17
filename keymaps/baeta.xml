@@ -15,6 +15,7 @@
   </action>
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
+  <action id="Console.TableResult.SetDefault" />
   <action id="ConvertIndentsToSpaces">
     <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
@@ -59,6 +60,9 @@
   </action>
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift alt f11" />
+  </action>
+  <action id="Subversion.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
   <action id="SynchronizeCurrentFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt y" />
