@@ -25,17 +25,17 @@
       <mask>*.sql</mask>
       <mask>pom.x</mask>
       <mask>*.</mask>
-      <mask>po</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
-      <mask>pom.xml</mask>
-      <mask>*</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*</mask>
+      <mask>po</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
