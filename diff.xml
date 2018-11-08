@@ -1,43 +1,4 @@
 <application>
-  <component name="DiffManager" COMPARISON_POLICY="Ignore spaces" />
-  <component name="DiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="Default">
-        <PlaceSettings>
-          <option name="DIFF_TOOLS_ORDER">
-            <list>
-              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
-              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
-              <option value="com.intellij.diff.tools.dir.DirDiffTool" />
-              <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
-              <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
-              <option value="com.intellij.database.diff.TableDiffTool" />
-            </list>
-          </option>
-        </PlaceSettings>
-      </entry>
-      <entry key="TestsFiledAssertions">
-        <PlaceSettings>
-          <option name="DIFF_TOOLS_ORDER">
-            <list>
-              <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
-              <option value="com.intellij.database.diff.TableDiffTool" />
-              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
-              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
-              <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
-              <option value="com.intellij.diff.tools.dir.DirDiffTool" />
-            </list>
-          </option>
-        </PlaceSettings>
-      </entry>
-    </option>
-  </component>
   <component name="SvnDiffSettings">
     <option name="PLACES_MAP">
       <entry key="Default">
@@ -45,37 +6,6 @@
           <option name="SPLITTER_PROPORTION" value="0.8558909" />
         </PlaceSettings>
       </entry>
-    </option>
-  </component>
-  <component name="TextDiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="CommitDialog">
-        <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
-          <option name="READ_ONLY_LOCK" value="false" />
-        </PlaceSettings>
-      </entry>
-      <entry key="Default">
-        <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
-        </PlaceSettings>
-      </entry>
-      <entry key="DirDiff">
-        <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
-        </PlaceSettings>
-      </entry>
-      <entry key="Merge">
-        <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
-          <option name="SHOW_INDENT_LINES" value="true" />
-        </PlaceSettings>
-      </entry>
-    </option>
-    <option name="SHARED_SETTINGS">
-      <SharedSettings>
-        <option name="MERGE_AUTO_APPLY_NON_CONFLICTED_CHANGES" value="true" />
-      </SharedSettings>
     </option>
   </component>
 </application>

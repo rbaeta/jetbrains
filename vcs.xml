@@ -166,7 +166,4 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/" />
   </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/dev/mSignRebuild" />
-  </component>
 </application>
