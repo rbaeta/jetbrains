@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Framework Detection" displayType="NONE" />
+    <notification groupId="Platform and Plugin Updates" />
+    <notification groupId="Settings Repository" displayType="NONE" />
+  </component>
+</application>
