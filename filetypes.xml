@@ -85,7 +85,6 @@
       <mapping ext="vcproj" type="XML" />
       <mapping ext="xades" type="XML" />
       <mapping ext=".textmate_init" type="textmate" />
-      <mapping ext="bash" type="textmate" />
       <mapping ext="bash_login" type="textmate" />
       <mapping ext="bash_logout" type="textmate" />
       <mapping ext="bash_profile" type="textmate" />
@@ -98,7 +97,6 @@
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="profile" type="textmate" />
-      <mapping ext="sh" type="textmate" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
