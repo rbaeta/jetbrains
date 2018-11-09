@@ -56,9 +56,7 @@
       <mapping ext="tgz" type="ARCHIVE" />
       <mapping ext="epub" type="ARCHIVE" />
       <mapping ext="asics" type="ARCHIVE" />
-      <removed_mapping ext="ttf" type="Font" />
       <mapping ext="pac" type="JavaScript" />
-      <mapping ext="ocsp" type="Native" />
       <mapping ext="crt" type="Native" />
       <mapping ext="bks" type="Native" />
       <mapping ext="vpp" type="Native" />
@@ -66,12 +64,12 @@
       <mapping ext="asic" type="Native" />
       <mapping ext="xlsm" type="Native" />
       <mapping ext="cer" type="Native" />
-      <mapping ext="pfx" type="Native" />
+      <mapping ext="ocsp" type="Native" />
       <mapping ext="der" type="Native" />
       <mapping ext="jks" type="Native" />
       <mapping ext="deb" type="Native" />
       <mapping ext="dsa" type="Native" />
-      <mapping ext="ttf" type="Native" />
+      <mapping ext="pfx" type="Native" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="nsi" type="PLAIN_TEXT" />
@@ -79,7 +77,6 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="b64" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <removed_mapping ext="sh" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="Properties" />
       <mapping ext="prop" type="Properties" />
       <mapping ext="plist" type="XML" />
@@ -87,7 +84,6 @@
       <mapping ext="suml" type="XML" />
       <mapping ext="vcproj" type="XML" />
       <mapping ext="xades" type="XML" />
-      <removed_mapping ext="ant" type="XML" />
       <mapping ext=".textmate_init" type="textmate" />
       <mapping ext="bash" type="textmate" />
       <mapping ext="bash_login" type="textmate" />
