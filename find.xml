@@ -5,37 +5,16 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <recentFileMasks>
-      <mask>*.ptope</mask>
-      <mask>*.ptoper</mask>
-      <mask>*.ptopert</mask>
-      <mask>*.ptopertie</mask>
-      <mask>*.ptoperties</mask>
-      <mask>*.properties</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.sq</mask>
-      <mask>*.s</mask>
-      <mask>*.pd</mask>
-      <mask>*.pdf</mask>
-      <mask>*.xml</mask>
-      <mask>sql</mask>
-      <mask>*sql</mask>
-      <mask>*.pom</mask>
-      <mask>*.sql</mask>
-      <mask>pom.x</mask>
-      <mask>*.</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*</mask>
-      <mask>po</mask>
-      <mask>pom.xml</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="pom.xml" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
