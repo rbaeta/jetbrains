@@ -41,7 +41,7 @@
           <list>
             <IssueNavigationLink>
               <option name="issueRegexp" value="[A-Z]+\-\d+" />
-              <option name="linkRegexp" value="https://servicos.multicert.com/jira/browse/$0" />
+              <option name="linkRegexp" value="https://issues.feedzai.com/browse/$0" />
             </IssueNavigationLink>
           </list>
         </option>
@@ -49,7 +49,7 @@
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="mavenHome" value="/opt/apache-maven-3.2.1" />
+            <option name="mavenHome" value="/usr/share/maven" />
           </MavenGeneralSettings>
         </option>
         <option name="importingSettings">
