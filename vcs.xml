@@ -162,9 +162,21 @@
           <option name="url" value="rbaeta@git.multicert.inet:/opt/git/components/CC_Interaction_Manager" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.feedzai.com" />
+          <option name="userName" value="rui.baeta@feedzai.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.feedzai.com/cs_projects/Lloyds/2017_Q3_lloyds" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.feedzai.com:cs_projects/Lloyds/2017_Q3_lloyds.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev/" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
