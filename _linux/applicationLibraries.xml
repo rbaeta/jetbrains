@@ -1,23 +1,8 @@
 <application>
   <component name="libraryTable">
-    <library name="jquery" type="javaScript">
-      <properties>
-        <option name="frameworkName" value="jQuery" />
-      </properties>
+    <library name="jquery">
       <CLASSES />
-      <DOCUMENTATION>
-        <root url="http://api.jquery.com" />
-      </DOCUMENTATION>
       <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="Maven: javafx:jfxrt:1.7">
-      <CLASSES>
-        <root url="jar:///usr/lib/jvm/java-7-oracle/jre/lib/jfxrt.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="http://docs.oracle.com/javafx/2/api/" />
-      </JAVADOC>
       <SOURCES />
     </library>
   </component>
