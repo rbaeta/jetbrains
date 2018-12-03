@@ -59,6 +59,7 @@
       <mapping ext="asics" type="ARCHIVE" />
       <mapping pattern=".arcconfig" type="JSON" />
       <mapping ext="pac" type="JavaScript" />
+      <mapping ext="mdown" type="Markdown" />
       <mapping ext="crt" type="Native" />
       <mapping ext="bks" type="Native" />
       <mapping ext="vpp" type="Native" />
@@ -79,6 +80,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="b64" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="Properties" />
       <mapping ext="prop" type="Properties" />
       <mapping ext="plist" type="XML" />
@@ -92,7 +94,6 @@
       <mapping ext="bash_profile" type="textmate" />
       <mapping ext="bashrc" type="textmate" />
       <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="mdown" type="Markdown" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
