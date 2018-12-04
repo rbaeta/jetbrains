@@ -52,46 +52,16 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.BACKQUOTE">
-      <value>
-        <option name="FOREGROUND" value="ffff00" />
-      </value>
-    </option>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="688eb2" />
-      </value>
-    </option>
-    <option name="BASH.FUNCTION_CALL">
-      <value>
-        <option name="FOREGROUND" value="c57633" />
-      </value>
-    </option>
-    <option name="BASH.FUNCTION_DEF_NAME">
-      <value />
-    </option>
-    <option name="BASH.HERE_DOC">
-      <value>
-        <option name="BACKGROUND" value="3a3a3a" />
-      </value>
-    </option>
+    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
     <option name="BASH.INTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="ffff" />
       </value>
     </option>
-    <option name="BASH.REDIRECTION">
-      <value>
-        <option name="FOREGROUND" value="bfbfbf" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="BASH.VAR_DEF">
-      <value>
-        <option name="FOREGROUND" value="c0c0c0" />
-      </value>
-    </option>
+    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="8c0000" />
