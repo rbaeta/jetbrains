@@ -5,67 +5,110 @@
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="java.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="javax.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="org.omg.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="sun.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="jdk.internal.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="junit.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="com.intellij.rt.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="com.yourkit.runtime.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="com.springsource.loaded.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="org.springsource.loaded.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="javassist.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="org.apache.webbeans.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="com.ibm.ws.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="mockit.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="org.testng.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
+  </component>
+  <component name="NodeRendererSettings">
+    <Renderer ID="ClassRenderer">
+      <option name="SHOW_FQ_TYPE_NAMES" value="true" />
+    </Renderer>
+    <Renderer ID="PrimitiveRenderer">
+      <option name="SHOW_HEX_VALUE" value="true" />
+    </Renderer>
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="java.lang.String" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="java.lang.String" />
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="java.lang.String" />
+        <option name="QUALIFIED_NAME" value="java.lang.String" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="java.lang.String" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="String.format(&quot;{@%s} %s&quot;, Integer.toHexString(hashCode()), toString())&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+    </CustomRenderers>
+  </component>
+  <component name="ViewsSettings">
+    <option name="HIDE_NULL_ARRAY_ELEMENTS" value="false" />
   </component>
   <component name="XDebuggerSettings">
     <data-views>
@@ -76,11 +119,6 @@
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
     <debuggers>
-      <debugger id="javascript">
-        <configuration captureAsyncStackTraces="false">
-          <custom-object-presentation enabled="true" />
-        </configuration>
-      </debugger>
       <debugger id="kotlin_debugger">
         <configuration>
           <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
