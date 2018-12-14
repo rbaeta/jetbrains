@@ -1,0 +1,14 @@
+<application>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="anonymous" value="true" />
+          <option name="hostUrl" value="https://sonar.feedzai.com" />
+          <option name="name" value="Sonar" />
+          <option name="user" value="" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>
