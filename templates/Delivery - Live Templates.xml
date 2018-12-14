@@ -1,0 +1,19 @@
+<templateSet group="Delivery - Live Templates">
+  <template name="Java - Codetag" value="# &#10;# $CODETAG$: $SUBJECT$ &#10;# $MESSAGE$&#10;# $DATE$ | $AUTHOR_NAME$ ($AUTHOR_EMAIL$) | $ISSUE_ID$ &#10;#" description="Create a codetag" toReformat="true" toShortenFQNames="true">
+    <variable name="CODETAG" expression="enum(&quot;TODO&quot;,&quot;BUG&quot;,&quot;FIXME&quot;,&quot;HACK&quot;,&quot;DOING&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="SUBJECT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="date(&quot;YYYY-MM-dd&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="AUTHOR_NAME" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="AUTHOR_EMAIL" expression="groovyScript(&quot;return System.getProperty('user.name').toLowerCase().replaceAll(' ','.')+'@feedzai.com'&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="ISSUE_ID" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>
