@@ -57,6 +57,7 @@
       <mapping ext="gz" type="ARCHIVE" />
       <mapping ext="vxp" type="ARCHIVE" />
       <mapping ext="tgz" type="ARCHIVE" />
+      <removed_mapping ext="conf" approved="true" type="HOCON" />
       <mapping pattern="*.json.j2" type="JSON" />
       <mapping pattern=".arcconfig" type="JSON" />
       <mapping ext="pac" type="JavaScript" />
@@ -87,8 +88,9 @@
       <mapping ext="plist" type="XML" />
       <mapping ext="xades" type="XML" />
       <mapping ext="vcproj" type="XML" />
-      <mapping ext="erm" type="XML" />
       <mapping ext="suml" type="XML" />
+      <mapping ext="erm" type="XML" />
+      <removed_mapping ext="conf" approved="true" type="HOCON" />
       <mapping ext=".textmate_init" type="textmate" />
       <mapping ext="bash_login" type="textmate" />
       <mapping ext="bash_logout" type="textmate" />
