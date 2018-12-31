@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" />
     <notification groupId="Framework Detection" displayType="NONE" />
     <notification groupId="Settings Repository" displayType="NONE" />
     <notification groupId="Vcs Important Messages" displayType="NONE" />
