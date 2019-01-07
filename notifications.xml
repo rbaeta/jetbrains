@@ -3,6 +3,7 @@
     <notification groupId="Branch Context group" displayType="NONE" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" />
     <notification groupId="Framework Detection" displayType="NONE" />
+    <notification groupId="Maven" displayType="NONE" />
     <notification groupId="Settings Repository" displayType="NONE" />
     <notification groupId="Vcs Important Messages" displayType="NONE" />
     <notification groupId="Vcs Messages" displayType="NONE" />
