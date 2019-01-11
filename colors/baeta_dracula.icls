@@ -4,7 +4,7 @@
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="323232" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="333333" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="DELETED_LINES_COLOR" value="450505" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
@@ -91,6 +91,11 @@
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="536c46" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="555555" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
