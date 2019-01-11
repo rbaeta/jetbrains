@@ -1,7 +1,7 @@
 <scheme name="baeta-dracula" version="142" parent_scheme="Default">
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
-    <option name="ANNOTATIONS_COLOR" value="8b999f" />
+    <option name="ANNOTATIONS_COLOR" value="ffffff" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="323232" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
@@ -36,6 +36,11 @@
     <option name="SELECTION_BACKGROUND" value="214283" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="555555" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="3e00" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="700000" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="22f" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="3b3700" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="3f003e" />
     <option name="WHITESPACES" value="" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="7d5c00" />
   </colors>
