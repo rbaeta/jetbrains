@@ -1,19 +1,7 @@
 <application>
   <component name="XPathView.XPathViewPlugin">
     <option name="SEARCH_SCOPE">
-      <SearchScope scope-name="Project Files">
-        <moduleName>msign-jnlp</moduleName>
-      </SearchScope>
-    </option>
-    <option name="attributes">
-      <TextAttributes>
-        <option name="effectType" />
-      </TextAttributes>
-    </option>
-    <option name="contextAttributes">
-      <TextAttributes>
-        <option name="effectType" />
-      </TextAttributes>
+      <SearchScope scope-name="Current File" type="CUSTOM" />
     </option>
   </component>
 </application>
