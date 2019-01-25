@@ -1,6 +1,6 @@
 <profile version="1.0">
   <option name="myName" value="Delivery - Inspections Profile" />
-  <inspection_tool class="CheckStyle" enabled="true" level="Check Error" enabled_by_default="true" />
+  <inspection_tool class="CheckStyle" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ClashingTraitMethods" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ControlFlowStatementWithoutBraces" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DelegatesTo" enabled="false" level="WARNING" enabled_by_default="false" />

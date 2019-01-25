@@ -22,17 +22,17 @@
       <option name="EFFECT_COLOR" value="bc" />
       <option name="ERROR_STRIPE_COLOR" value="bc" />
       <option name="EFFECT_TYPE" value="2" />
-      <option name="myName" value="Check Error" />
+      <option name="myName" value="Check Warning" />
       <option name="myVal" value="50" />
-      <option name="myExternalName" value="Check Error" />
+      <option name="myExternalName" value="Check Warning" />
       <option name="myDefaultAttributes">
         <option name="ERROR_STRIPE_COLOR" value="bc" />
       </option>
     </info>
     <list size="8">
       <item index="0" class="java.lang.String" itemvalue="INFORMATION" />
-      <item index="1" class="java.lang.String" itemvalue="Check Error" />
-      <item index="2" class="java.lang.String" itemvalue="TYPO" />
+      <item index="1" class="java.lang.String" itemvalue="TYPO" />
+      <item index="2" class="java.lang.String" itemvalue="Check Warning" />
       <item index="3" class="java.lang.String" itemvalue="SERVER PROBLEM" />
       <item index="4" class="java.lang.String" itemvalue="WEAK WARNING" />
       <item index="5" class="java.lang.String" itemvalue="INFO" />
