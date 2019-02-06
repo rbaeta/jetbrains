@@ -1,6 +1,8 @@
 <application>
   <component name="ScalaSettings">
     <option name="COMPILE_SERVER_ID" value="409927cf-b250-49b4-aa36-b7289d476316" />
-    <option name="COMPILE_SERVER_SDK" value="oracle-jdk1.8" />
+    <option name="COMPILE_SERVER_SDK" value="Project Default" />
+    <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="512" />
+    <option name="USE_PROJECT_HOME_AS_WORKING_DIR" value="true" />
   </component>
 </application>
