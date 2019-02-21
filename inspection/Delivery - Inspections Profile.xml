@@ -100,6 +100,7 @@
     <option name="ignoreAnonymousInnerClasses" value="false" />
     <option name="superClassString" value="" />
   </inspection_tool>
+  <inspection_tool class="TodoComment" enabled="true" level="Check Warning" enabled_by_default="true" />
   <inspection_tool class="TypeCustomizer" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnnecessaryQualifiedReference" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnqualifiedFieldAccess" enabled="true" level="WARNING" enabled_by_default="true" />
