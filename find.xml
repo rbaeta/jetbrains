@@ -10,10 +10,11 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.xml</mask>
-    <mask>*.properties</mask>
     <mask>*.json.j2</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.properties</mask>
+    <mask>*.properties.j2</mask>
   </component>
 </application>
