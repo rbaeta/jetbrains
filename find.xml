@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Java" />
     <option name="defaultScopeName" value="Java" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
