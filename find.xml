@@ -3,6 +3,7 @@
     <option name="customScope" value="Java" />
     <option name="defaultScopeName" value="Java" />
     <option name="SEARCH_SCOPE" value="Java" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -16,5 +17,6 @@
     <mask>pom.xml</mask>
     <mask>*.properties</mask>
     <mask>*.properties.j2</mask>
+    <mask>*.*</mask>
   </component>
 </application>
