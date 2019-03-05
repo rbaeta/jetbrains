@@ -5,6 +5,7 @@
     <resource url="http://java.sun.com/dtd/JNLP-6.0.dtd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/177b6b5e_JNLP-6.0.dtd" />
     <resource url="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/489cc366_assembly-1.1.0.xsd" />
     <resource url="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.3" location="$USER_HOME$/.IdeaIC15/system/extResources/48c709e9_assembly-1.1.3.xsd" />
+    <resource url="http://pmd.sourceforge.net/report/2.0.0" location="$USER_HOME$/.IdeaIC2018.3/system/extResources/ee202bb1_report_2_0_0.xsd" />
     <resource url="http://pmd.sourceforge.net/ruleset/2.0.0" location="$USER_HOME$/.IdeaIC2018.3/system/extResources/f3eabfe9_ruleset_2_0_0.xsd" />
     <resource url="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/791f18bc_securitypolicy.html" />
     <resource url="http://uri.etsi.org/02231/v2#" location="$USER_HOME$/dev/msign5" />
