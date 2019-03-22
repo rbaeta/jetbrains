@@ -60,6 +60,7 @@
       <removed_mapping ext="conf" approved="true" type="HOCON" />
       <mapping pattern="*.json.j2" type="JSON" />
       <mapping pattern=".arcconfig" type="JSON" />
+      <mapping ext="papp" type="JSON" />
       <mapping ext="pac" type="JavaScript" />
       <mapping ext="mdown" type="Markdown" />
       <mapping ext="crt" type="Native" />
