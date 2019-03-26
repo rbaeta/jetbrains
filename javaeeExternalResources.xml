@@ -1,5 +1,8 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://graphml.graphdrawing.org/xmlns" location="$USER_HOME$/.IdeaIC2018.3/system/extResources/8c5e3a63_graphml.xsd" />
+    <resource url="http://graphml.graphdrawing.org/xmlns/1.0/graphml-structure.xsd" location="$USER_HOME$/.IdeaIC2018.3/system/extResources/390cdd49_graphml-structure.xsd" />
+    <resource url="http://graphml.graphdrawing.org/xmlns/1.0/xlink.xsd" location="$USER_HOME$/.IdeaIC2018.3/system/extResources/90d85ba8_xlink.xsd" />
     <resource url="http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/41526227_hibernate-reverse-engineering-3.0.dtd" />
     <resource url="http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/b7923359_hibernate-reverse-engineering-3.0.dtd" />
     <resource url="http://java.sun.com/dtd/JNLP-6.0.dtd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/177b6b5e_JNLP-6.0.dtd" />
