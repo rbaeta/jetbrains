@@ -2,10 +2,10 @@
   <component name="DependencyUISettings">
     <option name="UI_FLATTEN_PACKAGES" value="false" />
     <option name="UI_SHOW_FILES" value="false" />
-    <option name="UI_SHOW_MODULES" value="false" />
     <option name="UI_SHOW_MODULE_GROUPS" value="false" />
     <option name="UI_FILTER_OUT_OF_CYCLE_PACKAGES" value="false" />
     <option name="UI_COMPACT_EMPTY_MIDDLE_PACKAGES" value="false" />
+    <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
