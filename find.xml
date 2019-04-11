@@ -7,6 +7,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -15,12 +16,12 @@
     <mask>*.mxml</mask>
     <mask>*.xml</mask>
     <mask>*.json.j2</mask>
-    <mask>*.properties</mask>
     <mask>*.*</mask>
     <mask>*.properties.j2</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>pom.xml</mask>
     <mask>*.pom</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
