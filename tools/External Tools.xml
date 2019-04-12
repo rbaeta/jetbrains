@@ -6,6 +6,27 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
+  <tool name="Open with less" description="Open with less" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="gnome-terminal" />
+      <option name="PARAMETERS" value="--command &quot;less -iMR $FilePath$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$FileParentDir$" />
+    </exec>
+  </tool>
+  <tool name="Open with external editor" description="Open with external editor" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="/bin/sh" />
+      <option name="PARAMETERS" value="-c &quot;$VISUAL $FilePath$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$FileParentDir$" />
+    </exec>
+  </tool>
+  <tool name="Open with Acrobat Reader" description="Open with Acrobat Reader" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="/bin/sh" />
+      <option name="PARAMETERS" value="-c &quot;acroread $FilePath$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$FileParentDir$" />
+    </exec>
+  </tool>
   <tool name="Open keystore with Portecle" description="Open keystore with Portecle" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="/bin/sh" />
@@ -25,20 +46,6 @@
       <option name="COMMAND" value="/bin/sh" />
       <option name="PARAMETERS" value="-c &quot;keytool -list -v -keystore $FilePath$ -storetype BKS -providerclass org.bouncycastle.jce.provider.BouncyCastleProvider -providerpath /home/rbaeta/.m2/repository/org/bouncycastle/bcprov-jdk15on/1.52/bcprov-jdk15on-1.52.jar&quot;" />
       <option name="WORKING_DIRECTORY" value="$FileDir$" />
-    </exec>
-  </tool>
-  <tool name="Open with Acrobat Reader" description="Open with Acrobat Reader" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
-    <exec>
-      <option name="COMMAND" value="/bin/sh" />
-      <option name="PARAMETERS" value="-c &quot;acroread $FilePath$&quot;" />
-      <option name="WORKING_DIRECTORY" value="$FileParentDir$" />
-    </exec>
-  </tool>
-  <tool name="Open with external editor" description="Open with external editor" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
-    <exec>
-      <option name="COMMAND" value="/bin/sh" />
-      <option name="PARAMETERS" value="-c &quot;$VISUAL $FilePath$&quot;" />
-      <option name="WORKING_DIRECTORY" value="$FileParentDir$" />
     </exec>
   </tool>
   <tool name="Dump certificate" description="Dump certificate" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
