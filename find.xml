@@ -16,10 +16,10 @@
     <mask>*.*</mask>
     <mask>*.properties.j2</mask>
     <mask>*.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.pom</mask>
     <mask>*.json</mask>
     <mask>*.sql</mask>
     <mask>*.properties</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
