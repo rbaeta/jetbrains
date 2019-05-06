@@ -1,13 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Java" />
+    <option name="defaultScopeName" value="Java" />
     <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="SEARCH_SCOPE" value="Java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -18,12 +17,12 @@
     <mask>*.*</mask>
     <mask>*.properties.j2</mask>
     <mask>*.pom</mask>
-    <mask>*.json</mask>
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.json</mask>
   </component>
 </application>
