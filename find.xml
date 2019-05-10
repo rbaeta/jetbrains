@@ -17,10 +17,10 @@
     <mask>*.pom</mask>
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
-    <mask>*.java</mask>
     <mask>*</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.json</mask>
+    <mask>*.java</mask>
   </component>
 </application>
