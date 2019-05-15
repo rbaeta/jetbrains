@@ -14,11 +14,12 @@
     <mask>*.properties.j2</mask>
     <mask>*.pom</mask>
     <mask>*.sql</mask>
-    <mask>pom.xml</mask>
     <mask>*</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
+    <mask>logger.xml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
