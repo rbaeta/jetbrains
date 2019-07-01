@@ -567,18 +567,18 @@
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
-        <option name="FOREGROUND" value="ccffcc" />
+        <option name="FOREGROUND" value="aaffaa" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
-        <option name="FOREGROUND" value="ffcccc" />
+        <option name="FOREGROUND" value="ffaaaa" />
       </value>
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
-        <option name="FOREGROUND" value="ffffcc" />
+        <option name="FOREGROUND" value="ffffaa" />
       </value>
     </option>
     <option name="LOGCAT_DEBUG_OUTPUT">
