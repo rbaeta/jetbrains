@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="global" />
-    <option name="defaultScopeName" value="global" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="global" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -20,9 +21,9 @@
     <mask>*.properties</mask>
     <mask>logger.xml</mask>
     <mask>*.json</mask>
-    <mask>pom.xml</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>Dockerfile</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
