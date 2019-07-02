@@ -1,6 +1,5 @@
 <code_scheme name="Delivery - Java Scheme" version="173">
   <option name="RIGHT_MARGIN" value="150" />
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <JavaCodeStyleSettings>
     <option name="GENERATE_FINAL_LOCALS" value="true" />
     <option name="GENERATE_FINAL_PARAMETERS" value="true" />
