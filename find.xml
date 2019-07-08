@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="LLOYDS-2902: Import failed events to pulse event storage" />
     <option name="defaultScopeName" value="LLOYDS-2902: Import failed events to pulse event storage" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="LLOYDS-2902: Import failed events to pulse event storage" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
