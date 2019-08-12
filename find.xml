@@ -2,9 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="global" />
     <option name="defaultScopeName" value="global" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="global" />
+    <option name="FILE_MASK" value="*.properties.j2" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -13,7 +14,6 @@
     <mask>*.mxml</mask>
     <mask>*.json.j2</mask>
     <mask>*.*</mask>
-    <mask>*.properties.j2</mask>
     <mask>*.pom</mask>
     <mask>*</mask>
     <mask>*.xml</mask>
@@ -24,5 +24,6 @@
     <mask>pom.xml</mask>
     <mask>*.json</mask>
     <mask>*.sql</mask>
+    <mask>*.properties.j2</mask>
   </component>
 </application>

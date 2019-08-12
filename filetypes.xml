@@ -50,77 +50,84 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="vxp" type="ARCHIVE" />
-      <mapping ext="wfz" type="ARCHIVE" />
       <mapping ext="gz" type="ARCHIVE" />
-      <mapping ext="epub" type="ARCHIVE" />
-      <mapping ext="asics" type="ARCHIVE" />
       <mapping ext="tgz" type="ARCHIVE" />
+      <mapping ext="epub" type="ARCHIVE" />
+      <mapping ext="wfz" type="ARCHIVE" />
+      <mapping ext="vxp" type="ARCHIVE" />
+      <mapping ext="asics" type="ARCHIVE" />
       <mapping pattern="*.json.j2" type="JSON" />
       <mapping pattern=".arcconfig" type="JSON" />
       <mapping ext="papp" type="JSON" />
       <mapping ext="pac" type="JavaScript" />
       <mapping ext="mdown" type="Markdown" />
-      <mapping ext="vpp" type="Native" />
-      <mapping ext="asic" type="Native" />
-      <mapping ext="xcf" type="Native" />
       <mapping ext="ai" type="Native" />
-      <mapping ext="ocsp" type="Native" />
-      <mapping ext="bks" type="Native" />
-      <mapping ext="der" type="Native" />
-      <mapping ext="dsa" type="Native" />
-      <mapping ext="xlsm" type="Native" />
-      <mapping ext="cer" type="Native" />
-      <mapping ext="p12" type="Native" />
       <mapping ext="jks" type="Native" />
-      <mapping ext="pfx" type="Native" />
+      <mapping ext="p12" type="Native" />
       <mapping ext="crt" type="Native" />
+      <mapping ext="asic" type="Native" />
+      <mapping ext="cer" type="Native" />
+      <mapping ext="ocsp" type="Native" />
+      <mapping ext="dsa" type="Native" />
+      <mapping ext="pfx" type="Native" />
+      <mapping ext="vpp" type="Native" />
+      <mapping ext="der" type="Native" />
       <mapping ext="deb" type="Native" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping ext="xcf" type="Native" />
+      <mapping ext="bks" type="Native" />
+      <mapping ext="xlsm" type="Native" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping ext="nsi" type="PLAIN_TEXT" />
-      <mapping ext="cache" type="PLAIN_TEXT" />
-      <mapping ext="b64" type="PLAIN_TEXT" />
-      <mapping ext="rc" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="nsi" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="cache" type="PLAIN_TEXT" />
+      <mapping ext="rc" type="PLAIN_TEXT" />
+      <mapping ext="b64" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="*.properties.j2" type="Properties" />
-      <mapping ext="prop" type="Properties" />
       <mapping ext="cfg" type="Properties" />
+      <mapping ext="prop" type="Properties" />
+      <removed_mapping ext="zsh" approved="true" type="Shell Script" />
+      <mapping ext="vcproj" type="XML" />
+      <mapping ext="xades" type="XML" />
       <mapping ext="suml" type="XML" />
       <mapping ext="graphml" type="XML" />
-      <mapping ext="erm" type="XML" />
-      <mapping ext="vcproj" type="XML" />
       <mapping ext="plist" type="XML" />
-      <mapping ext="xades" type="XML" />
+      <mapping ext="erm" type="XML" />
+      <removed_mapping pattern="bashrc" approved="true" type="textmate" />
+      <removed_mapping ext="bashrc" approved="true" type="textmate" />
+      <removed_mapping pattern="bash_login" approved="true" type="textmate" />
+      <removed_mapping ext="bash_login" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping pattern="profile" approved="true" type="textmate" />
+      <removed_mapping ext="profile" approved="true" type="textmate" />
+      <removed_mapping pattern="bash_profile" approved="true" type="textmate" />
+      <removed_mapping ext="bash_profile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="zsh" approved="true" type="textmate" />
+      <removed_mapping ext="zsh" approved="true" type="textmate" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="sh" approved="true" type="textmate" />
+      <removed_mapping pattern="bash_logout" approved="true" type="textmate" />
+      <removed_mapping ext="bash_logout" approved="true" type="textmate" />
       <removed_mapping ext="graphml" approved="true" type="SVG" />
-      <mapping ext=".textmate_init" type="textmate" />
-      <mapping ext="bash_login" type="textmate" />
-      <mapping ext="bash_logout" type="textmate" />
-      <mapping ext="bash_profile" type="textmate" />
-      <mapping ext="bashrc" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping pattern="bash" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="profile" type="textmate" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping ext="zsh" type="textmate" />
-      <mapping pattern=".textmate_init" type="textmate" />
-      <mapping pattern="bash" type="textmate" />
-      <mapping pattern="bash_login" type="textmate" />
-      <mapping pattern="bash_logout" type="textmate" />
-      <mapping pattern="bash_profile" type="textmate" />
-      <mapping pattern="bashrc" type="textmate" />
-      <mapping pattern="profile" type="textmate" />
-      <mapping pattern="sh" type="textmate" />
-      <mapping pattern="zsh" type="textmate" />
     </extensionMap>
   </component>
 </application>
