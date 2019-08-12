@@ -50,11 +50,11 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="gz" type="ARCHIVE" />
       <mapping ext="tgz" type="ARCHIVE" />
       <mapping ext="epub" type="ARCHIVE" />
       <mapping ext="wfz" type="ARCHIVE" />
       <mapping ext="vxp" type="ARCHIVE" />
+      <mapping ext="gz" type="ARCHIVE" />
       <mapping ext="asics" type="ARCHIVE" />
       <mapping pattern="*.json.j2" type="JSON" />
       <mapping pattern=".arcconfig" type="JSON" />
@@ -90,7 +90,6 @@
       <mapping pattern="*.properties.j2" type="Properties" />
       <mapping ext="cfg" type="Properties" />
       <mapping ext="prop" type="Properties" />
-      <removed_mapping ext="zsh" approved="true" type="Shell Script" />
       <mapping ext="vcproj" type="XML" />
       <mapping ext="xades" type="XML" />
       <mapping ext="suml" type="XML" />
@@ -108,8 +107,8 @@
       <removed_mapping pattern="bash_profile" approved="true" type="textmate" />
       <removed_mapping ext="bash_profile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping pattern="zsh" approved="true" type="textmate" />
       <removed_mapping ext="zsh" approved="true" type="textmate" />
+      <removed_mapping pattern="zsh" approved="true" type="textmate" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="sh" approved="true" type="textmate" />
       <removed_mapping pattern="bash_logout" approved="true" type="textmate" />
