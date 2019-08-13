@@ -1,18 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="global" />
-    <option name="defaultScopeName" value="global" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="global" />
-    <option name="FILE_MASK" value="*.properties.j2" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json.j2" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.json.j2</mask>
     <mask>*.*</mask>
     <mask>*.pom</mask>
     <mask>*</mask>
@@ -21,9 +18,10 @@
     <mask>logger.xml</mask>
     <mask>*.java</mask>
     <mask>Dockerfile</mask>
-    <mask>pom.xml</mask>
     <mask>*.json</mask>
     <mask>*.sql</mask>
     <mask>*.properties.j2</mask>
+    <mask>pom.xml</mask>
+    <mask>*.json.j2</mask>
   </component>
 </application>
