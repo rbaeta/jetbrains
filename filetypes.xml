@@ -81,6 +81,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="nsi" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="b64" type="PLAIN_TEXT" />
