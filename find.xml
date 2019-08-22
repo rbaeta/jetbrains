@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -17,12 +18,12 @@
     <mask>logger.xml</mask>
     <mask>*.java</mask>
     <mask>Dockerfile</mask>
-    <mask>*.json</mask>
     <mask>*.sql</mask>
     <mask>*.properties.j2</mask>
     <mask>*.json.j2</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.json</mask>
   </component>
 </application>
