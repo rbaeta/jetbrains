@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.md" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -24,5 +25,6 @@
     <mask>*.properties</mask>
     <mask>*.json</mask>
     <mask>*.properties.j2</mask>
+    <mask>*.md</mask>
   </component>
 </application>
