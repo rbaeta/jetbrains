@@ -189,6 +189,11 @@
         <option name="FOREGROUND" value="ffc000" />
       </value>
     </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.CaretRow">
+      <value>
+        <option name="BACKGROUND" value="656565" />
+      </value>
+    </option>
     <option name="DBNavigator.TextAttributes.DataEditor.DeletedData">
       <value>
         <option name="FOREGROUND" value="ffffff" />
