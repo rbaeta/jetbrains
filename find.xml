@@ -7,7 +7,6 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -23,10 +22,10 @@
     <mask>*.json.j2</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
-    <mask>*.properties.j2</mask>
     <mask>*.md</mask>
     <mask>*.json</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*.properties.j2</mask>
   </component>
 </application>
