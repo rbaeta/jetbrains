@@ -27,5 +27,6 @@
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.properties.j2</mask>
+    <mask>*.class</mask>
   </component>
 </application>
