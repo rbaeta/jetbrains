@@ -295,6 +295,16 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEBUGGER_SMART_STEP_INTO_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="656565" />
+      </value>
+    </option>
+    <option name="DEBUGGER_SMART_STEP_INTO_TARGET">
+      <value>
+        <option name="BACKGROUND" value="656565" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="ff00ff" />
