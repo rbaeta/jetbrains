@@ -6,6 +6,8 @@
     <option name="EXPORT_FILE_NAME" value="$USER_HOME$/report-brush-xml.txt" />
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
     <option name="IS_EXPANDED" value="true" />
+    <option name="FLATTEN_MODULES" value="false" />
+    <option name="GROUP_BY_USAGE_TYPE" value="false" />
     <option name="IS_REPLACE_PREVIEW_USAGES" value="false" />
   </component>
 </application>
