@@ -70,6 +70,7 @@
       <mapping pattern=".arcconfig" type="JSON" />
       <mapping ext="papp" type="JSON" />
       <mapping ext="pac" type="JavaScript" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="mdown" type="Markdown" />
       <mapping ext="crt" type="Native" />
       <mapping ext="ai" type="Native" />
@@ -91,6 +92,7 @@
       <mapping ext="b64" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
+      <mapping ext="pid" type="PLAIN_TEXT" />
       <mapping ext="nsi" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
