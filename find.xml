@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.properties.j2" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -21,10 +20,10 @@
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.md</mask>
-    <mask>*.properties.j2</mask>
     <mask>*.class</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>*.json</mask>
+    <mask>*.properties.j2</mask>
   </component>
 </application>
