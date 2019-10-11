@@ -214,7 +214,6 @@
     <option name="DBNavigator.TextAttributes.DataEditor.LoadingData">
       <value>
         <option name="FOREGROUND" value="7f7f7f" />
-        <option name="BACKGROUND" value="f4f4f4" />
       </value>
     </option>
     <option name="DBNavigator.TextAttributes.DataEditor.ModifiedData">
