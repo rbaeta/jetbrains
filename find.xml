@@ -16,13 +16,13 @@
     <mask>Dockerfile</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
-    <mask>*.md</mask>
     <mask>*.class</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>*.properties.j2</mask>
-    <mask>*.sql</mask>
     <mask>*.json.j2</mask>
     <mask>*.json</mask>
+    <mask>*.md</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
