@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -19,12 +20,12 @@
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.class</mask>
-    <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>*.properties.j2</mask>
     <mask>*.json.j2</mask>
     <mask>*.md</mask>
     <mask>*.sql</mask>
     <mask>*.json</mask>
+    <mask>*.java</mask>
   </component>
 </application>
