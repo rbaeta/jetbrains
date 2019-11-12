@@ -3,6 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -17,12 +18,12 @@
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.class</mask>
-    <mask>pom.xml</mask>
     <mask>*.properties.j2</mask>
     <mask>*.json.j2</mask>
     <mask>*.md</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.json</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
