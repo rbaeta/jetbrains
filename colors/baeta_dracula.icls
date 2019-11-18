@@ -137,6 +137,56 @@
         <option name="FOREGROUND" value="bbbbbb" />
       </value>
     </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_1">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_10">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_2">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_3">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_4">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_5">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_6">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_7">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_8">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CSV_COLUMN_HIGHLIGHT_ATTRIBUTE_9">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ff0000" />
