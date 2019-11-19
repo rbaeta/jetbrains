@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -17,14 +18,14 @@
     <mask>logger.xml</mask>
     <mask>Dockerfile</mask>
     <mask>*.xml</mask>
-    <mask>*.properties</mask>
     <mask>*.class</mask>
     <mask>*.properties.j2</mask>
     <mask>*.json.j2</mask>
     <mask>*.md</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
-    <mask>*.json</mask>
     <mask>pom.xml</mask>
+    <mask>*.json</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
