@@ -66,13 +66,13 @@
       <mapping ext="ai" type="Native" />
       <mapping ext="vpp" type="Native" />
       <mapping ext="xcf" type="Native" />
+      <mapping ext="jks" type="Native" />
       <mapping ext="der" type="Native" />
       <mapping ext="deb" type="Native" />
       <mapping ext="asic" type="Native" />
       <mapping ext="bks" type="Native" />
       <mapping ext="cer" type="Native" />
       <mapping ext="xlsm" type="Native" />
-      <mapping ext="jks" type="Native" />
       <mapping ext="dsa" type="Native" />
       <mapping ext="pfx" type="Native" />
       <mapping ext="ocsp" type="Native" />
