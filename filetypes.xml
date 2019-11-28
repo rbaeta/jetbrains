@@ -66,13 +66,13 @@
       <mapping ext="ai" type="Native" />
       <mapping ext="vpp" type="Native" />
       <mapping ext="xcf" type="Native" />
-      <mapping ext="jks" type="Native" />
       <mapping ext="der" type="Native" />
       <mapping ext="deb" type="Native" />
       <mapping ext="asic" type="Native" />
       <mapping ext="bks" type="Native" />
       <mapping ext="cer" type="Native" />
       <mapping ext="xlsm" type="Native" />
+      <mapping ext="jks" type="Native" />
       <mapping ext="dsa" type="Native" />
       <mapping ext="pfx" type="Native" />
       <mapping ext="ocsp" type="Native" />
@@ -87,8 +87,8 @@
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="*.properties.j2" type="Properties" />
       <mapping ext="cfg" type="Properties" />
