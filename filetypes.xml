@@ -77,18 +77,18 @@
       <mapping ext="pfx" type="Native" />
       <mapping ext="ocsp" type="Native" />
       <mapping ext="p12" type="Native" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping ext="rc" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="b64" type="PLAIN_TEXT" />
       <mapping ext="pid" type="PLAIN_TEXT" />
       <mapping ext="nsi" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="*.properties.j2" type="Properties" />
       <mapping ext="cfg" type="Properties" />

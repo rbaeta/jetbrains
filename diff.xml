@@ -92,6 +92,7 @@
       </entry>
       <entry key="CommitDialog">
         <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="READ_ONLY_LOCK" value="false" />
           <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
