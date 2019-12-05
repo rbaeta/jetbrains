@@ -65,6 +65,7 @@
       <mapping ext="crt" type="Native" />
       <mapping ext="ai" type="Native" />
       <mapping ext="vpp" type="Native" />
+      <mapping ext="gpg" type="Native" />
       <mapping ext="xcf" type="Native" />
       <mapping ext="der" type="Native" />
       <mapping ext="deb" type="Native" />
