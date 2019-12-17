@@ -182,6 +182,7 @@
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
     <option name="SHOW_TAG_NAMES" value="true" />
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+    <option name="PREFER_COMMIT_DATE" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
