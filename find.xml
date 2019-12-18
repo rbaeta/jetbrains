@@ -24,7 +24,7 @@
     <mask>*.properties.j2</mask>
     <mask>*.sql</mask>
     <mask>*.sh</mask>
-    <mask>pom.xml</mask>
     <mask>*.yml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
