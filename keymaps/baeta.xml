@@ -111,7 +111,4 @@
   <action id="builderDesignPattern">
     <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
-  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction">
-    <keyboard-shortcut first-keystroke="shift alt quote" />
-  </action>
 </keymap>

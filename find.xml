@@ -1,12 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="preserveCase" value="true" />
-    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -22,13 +21,12 @@
     <mask>*.class</mask>
     <mask>*.json.j2</mask>
     <mask>*.md</mask>
+    <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>*.properties</mask>
-    <mask>*.properties.j2</mask>
-    <mask>*.sql</mask>
-    <mask>*.sh</mask>
-    <mask>*.yml</mask>
     <mask>pom.xml</mask>
-    <mask>*.java</mask>
+    <mask>*.properties.j2</mask>
+    <mask>*.sh</mask>
+    <mask>*.sql</mask>
   </component>
 </application>

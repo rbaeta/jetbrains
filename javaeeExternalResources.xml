@@ -32,7 +32,6 @@
     <resource url="http://xmlns.jcp.org/xml/ns/javaee" location="$USER_HOME$/.IdeaIC2018.2/system/extResources/27c071c8_web-app_3_1.xsd" />
     <resource url="http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" location="$USER_HOME$/.IdeaIC15/system/extResources/27c071c8_web-app_3_1.xsd" />
     <resource url="https://jeremylong.github.io/DependencyCheck/dependency-suppression.1.1.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/b5d3be6b_dependency-suppression.1.1.xsd" />
-    <resource url="https://jgitver.github.io/maven/configuration/jgitver-configuration-v1_0_0-beta.xsd" location="$USER_HOME$/.IdeaIC2019.3/system/extResources/f7c7c55_jgitver-configuration-v1_0_0-beta.xsd" />
     <resource url="urn:jboss:cli:1.0" location="$USER_HOME$/dev/jboss-as-7.1.0.Final/docs/schema/jboss-as-cli_1_0.xsd" />
     <resource url="urn:jboss:domain:1.0" location="$USER_HOME$/dev/jboss-as-7.1.0.Final/docs/schema/jboss-as-config_1_0.xsd" />
     <resource url="urn:jboss:domain:1.1" location="$USER_HOME$/dev/jboss-as-7.1.0.Final/docs/schema/jboss-as-config_1_1.xsd" />
