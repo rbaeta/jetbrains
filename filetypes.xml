@@ -66,19 +66,19 @@
       <mapping ext="ai" type="Native" />
       <mapping ext="vpp" type="Native" />
       <mapping ext="xcf" type="Native" />
-      <mapping ext="jks" type="Native" />
       <mapping ext="der" type="Native" />
       <mapping ext="deb" type="Native" />
       <mapping ext="asic" type="Native" />
       <mapping ext="bks" type="Native" />
       <mapping ext="cer" type="Native" />
       <mapping ext="xlsm" type="Native" />
+      <mapping ext="jks" type="Native" />
       <mapping ext="dsa" type="Native" />
       <mapping ext="pfx" type="Native" />
       <mapping ext="ocsp" type="Native" />
       <mapping ext="p12" type="Native" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="b64" type="PLAIN_TEXT" />
