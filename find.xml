@@ -28,7 +28,7 @@
     <mask>*.sh</mask>
     <mask>*.json</mask>
     <mask>*.sql</mask>
-    <mask>*.yml</mask>
     <mask>pom.xml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
