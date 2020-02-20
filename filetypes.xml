@@ -66,6 +66,7 @@
       <mapping ext="ai" type="Native" />
       <mapping ext="vpp" type="Native" />
       <mapping ext="xcf" type="Native" />
+      <mapping ext="log" type="Native" />
       <mapping ext="der" type="Native" />
       <mapping ext="deb" type="Native" />
       <mapping ext="asic" type="Native" />
