@@ -94,6 +94,7 @@
       <mapping pattern="*.properties.j2" type="Properties" />
       <mapping ext="cfg" type="Properties" />
       <mapping ext="prop" type="Properties" />
+      <mapping ext="j2" type="XML" />
       <mapping ext="plist" type="XML" />
       <mapping ext="xades" type="XML" />
       <mapping ext="vcproj" type="XML" />
