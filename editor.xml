@@ -32,7 +32,6 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="3" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_DND_ENABLED" value="false" />
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
@@ -49,15 +48,16 @@
         <option name="ERROR_STRIPE_COLOR" value="bc" />
       </option>
     </info>
-    <list size="8">
+    <list size="9">
       <item index="0" class="java.lang.String" itemvalue="INFORMATION" />
-      <item index="1" class="java.lang.String" itemvalue="TYPO" />
-      <item index="2" class="java.lang.String" itemvalue="Check Warning" />
-      <item index="3" class="java.lang.String" itemvalue="SERVER PROBLEM" />
-      <item index="4" class="java.lang.String" itemvalue="WEAK WARNING" />
-      <item index="5" class="java.lang.String" itemvalue="INFO" />
-      <item index="6" class="java.lang.String" itemvalue="WARNING" />
-      <item index="7" class="java.lang.String" itemvalue="ERROR" />
+      <item index="1" class="java.lang.String" itemvalue="UNUSED ENTRY" />
+      <item index="2" class="java.lang.String" itemvalue="TYPO" />
+      <item index="3" class="java.lang.String" itemvalue="Check Warning" />
+      <item index="4" class="java.lang.String" itemvalue="SERVER PROBLEM" />
+      <item index="5" class="java.lang.String" itemvalue="WEAK WARNING" />
+      <item index="6" class="java.lang.String" itemvalue="INFO" />
+      <item index="7" class="java.lang.String" itemvalue="WARNING" />
+      <item index="8" class="java.lang.String" itemvalue="ERROR" />
     </list>
   </component>
   <component name="JavaCodeFoldingSettings">
