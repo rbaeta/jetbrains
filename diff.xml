@@ -75,6 +75,7 @@
         <PlaceSettings>
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="SHOW_INDENT_LINES" value="true" />
+          <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
       <entry key="DirDiff">
