@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="LanguageInjectionConfiguration">
-    <option name="INSTRUMENTATION" value="ASSERT" />
-    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
-    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
-    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
-    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="RegExp" injector-id="xml">
+      <display-name>pattern</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("pattern")).withNamespace(string().equalTo("http://jgitver.github.io/maven/configuration/1.0.0-beta"))]]></place>
+    </injection>
+    <injection language="RegExp" injector-id="xml">
+      <display-name>regexVersionTag</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("regexVersionTag")).withNamespace(string().equalTo("http://jgitver.github.io/maven/configuration/1.0.0-beta"))]]></place>
+    </injection>
   </component>
 </application>
-
