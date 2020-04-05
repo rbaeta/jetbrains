@@ -53,6 +53,7 @@
       <mapping ext="epub" type="ARCHIVE" />
       <mapping ext="wfz" type="ARCHIVE" />
       <mapping ext="asics" type="ARCHIVE" />
+      <mapping ext="tar" type="ARCHIVE" />
       <mapping ext="gz" type="ARCHIVE" />
       <mapping ext="vxp" type="ARCHIVE" />
       <mapping ext="tgz" type="ARCHIVE" />
