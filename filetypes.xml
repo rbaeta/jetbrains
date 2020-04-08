@@ -51,9 +51,9 @@
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="epub" type="ARCHIVE" />
+      <mapping ext="tar" type="ARCHIVE" />
       <mapping ext="wfz" type="ARCHIVE" />
       <mapping ext="asics" type="ARCHIVE" />
-      <mapping ext="tar" type="ARCHIVE" />
       <mapping ext="gz" type="ARCHIVE" />
       <mapping ext="vxp" type="ARCHIVE" />
       <mapping ext="tgz" type="ARCHIVE" />
@@ -79,8 +79,8 @@
       <mapping ext="pfx" type="Native" />
       <mapping ext="ocsp" type="Native" />
       <mapping ext="p12" type="Native" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="b64" type="PLAIN_TEXT" />
@@ -89,8 +89,8 @@
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="*.properties.j2" type="Properties" />
       <mapping ext="cfg" type="Properties" />
