@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="rui.baeta@feedzai.com">
+      <option name="address" value="docker.feedzai.com" />
+      <option name="name" value="Docker Registry" />
+      <option name="username" value="rui.baeta" />
+    </DockerRegistry>
+  </component>
+</application>
