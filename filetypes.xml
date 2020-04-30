@@ -63,6 +63,7 @@
       <mapping ext="pac" type="JavaScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="mdown" type="Markdown" />
+      <mapping pattern="DEV_btg_publickey" type="Native" />
       <mapping ext="crt" type="Native" />
       <mapping ext="ai" type="Native" />
       <mapping ext="vpp" type="Native" />
