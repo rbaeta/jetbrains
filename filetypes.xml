@@ -60,6 +60,7 @@
       <mapping pattern="*.json.j2" type="JSON" />
       <mapping pattern=".arcconfig" type="JSON" />
       <mapping ext="papp" type="JSON" />
+      <mapping ext="ipynb" type="JSON" />
       <mapping ext="pac" type="JavaScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="mdown" type="Markdown" />
