@@ -1,10 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="BTG-302: Improve the deployment process" />
-    <option name="defaultScopeName" value="BTG-302: Improve the deployment process" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="BTG-302: Improve the deployment process" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
