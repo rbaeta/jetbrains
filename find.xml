@@ -2,9 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
@@ -27,8 +25,8 @@
     <mask>*.properties.j2</mask>
     <mask>*.sh</mask>
     <mask>*.xml</mask>
-    <mask>*.md</mask>
     <mask>*.yml</mask>
     <mask>*.sql</mask>
+    <mask>*.md</mask>
   </component>
 </application>
