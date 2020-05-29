@@ -80,6 +80,7 @@
       <mapping ext="pfx" type="Native" />
       <mapping ext="ocsp" type="Native" />
       <mapping ext="p12" type="Native" />
+      <mapping ext="db" type="Native" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
