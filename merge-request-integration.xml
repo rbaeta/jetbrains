@@ -1,5 +1,6 @@
 <application>
   <component name="MergeRequestIntegrationApplicationLevel">
+    <Item id="gitlab:BTG" providerId="gitlab" url="https://gitlab.feedzai.com" login="" projectId="1521" version="v4" info="mergeApprovalFeature:true" ignoreSSLCertificateErrors="0" repository="" />
     <Setting name="enable-request-cache" value="1" />
     <Setting name="save-mr-filter-state" value="1" />
     <Setting name="comments:group-comment-by-thread" value="0" />
