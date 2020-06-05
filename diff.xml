@@ -75,6 +75,7 @@
         <PlaceSettings>
           <option name="BREADCRUMBS_PLACEMENT" value="BOTTOM" />
           <option name="SHOW_INDENT_LINES" value="true" />
+          <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
       </entry>
       <entry key="DirDiff">
