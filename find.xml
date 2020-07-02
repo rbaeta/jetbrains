@@ -23,12 +23,12 @@
     <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.json</mask>
-    <mask>pom.xml</mask>
     <mask>*.properties.j2</mask>
     <mask>*.sh</mask>
     <mask>*.sql</mask>
     <mask>*.md</mask>
     <mask>*.xml</mask>
     <mask>*.yml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
