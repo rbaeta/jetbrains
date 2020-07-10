@@ -76,7 +76,6 @@
           <option name="BREADCRUMBS_PLACEMENT" value="BOTTOM" />
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="SHOW_INDENT_LINES" value="true" />
-          <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
       </entry>
       <entry key="DirDiff">
