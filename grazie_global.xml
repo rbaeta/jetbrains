@@ -6,6 +6,11 @@
         <option value="Portuguese (Portugal)" />
       </set>
     </option>
+    <option name="userDisabledRules">
+      <set>
+        <option value="PASSIVE_VOICE" />
+      </set>
+    </option>
     <option name="checkingContext">
       <CheckingContext>
         <option name="isCheckInCommitMessagesEnabled" value="true" />
