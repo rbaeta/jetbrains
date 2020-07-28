@@ -2,6 +2,7 @@
   <component name="GeneralSettings">
     <option name="autoSaveIfInactive" value="true" />
     <option name="confirmOpenNewProject2" value="0" />
+    <option name="defaultProjectDirectory" value="$USER_HOME$/projects" />
     <option name="reopenLastProject" value="false" />
     <option name="autoSaveFiles" value="false" />
     <option name="searchInBackground" value="true" />
